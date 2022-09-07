@@ -1,6 +1,6 @@
 ### Hi, I'm De Guio Samuel 👋
 
-I am a Full-stack developer working at [Wsb Srl](https://www.wesellbrain.com/) since 3 years. I like to work on different project and developing solution for my customers in order to simplify their life. Work aside I like to spend my time devolping web application using cutting edge tecnologies. 
+I am a full-stack developer working at [Wsb Srl](https://www.wesellbrain.com/) since 3 years. I like to work on different project and developing solution for my customers in order to simplify their life. Work aside I like to spend my time devolping web application using cutting edge tecnologies. 
 
 - 🔭 I’m currently working on the backend of a new App.
 - 🌱 I’m currently learning Laravel, Vue and Nuxt 3 as new tecnologies to forge my apps.
