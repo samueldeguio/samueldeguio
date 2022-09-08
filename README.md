@@ -26,8 +26,8 @@ I am a full-stack developer working at [Wsb Srl](https://www.wesellbrain.com/) s
 <img  title="Mysql" alt="Mysql" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain.svg" />&nbsp;&nbsp;
 <img  title="Python" alt="Python" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" />&nbsp;&nbsp;
 
- ### Libraries and Frameworks
+ ### Libraries and Frameworks 📚
 <img  title="Laravel" alt="Laravel" width="25px" src="https://laravel.com/img/logomark.min.svg" />&nbsp;&nbsp;
 <img  title="Tailwind Css" alt="TailwindCss" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" />&nbsp;&nbsp;
 <img  title="Vue" alt="Vue" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" />&nbsp;&nbsp;
-<img  title="Nuxt" alt="Nuxt Js" width="30px" src=https://github.com/devicons/devicon/blob/master/icons/nuxtjs/nuxtjs-original.svg" />&nbsp;&nbsp;
+<img  title="Nuxt" alt="Nuxt" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/nuxtjs/nuxtjs-original.svg" />&nbsp;&nbsp;
