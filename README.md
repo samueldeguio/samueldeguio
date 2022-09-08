@@ -1,3 +1,8 @@
+<div id="badges" align="center">
+  <a href="https://it.linkedin.com/in/samuel-de-guio-a2b954190">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
 <div align="center">
   <img height="400px" src="https://i.pinimg.com/originals/54/c9/af/54c9af226721e95539a5cd9592d635bb.gif" />
 </div>
