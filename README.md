@@ -8,9 +8,16 @@ I am a full-stack developer working at [Wsb Srl](https://www.wesellbrain.com/) s
 - 😄 Pronouns: He/Him.
 
 <br>
-<a href="https://it.linkedin.com/in/samuel-de-guio-a2b954190">
-  <img align="left" alt="Samuel De Guio's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://www.instagram.com/samuel.deguio/?hl=cs">
-  <img align="left" alt="Samuel De Guio's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
+
+---
+
+### Languages and Tools that I use 🛠️
+<img alt="PHP" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg" />&nbsp;&nbsp;
+<img  title="Javascript" alt="Javascript" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" />&nbsp;&nbsp;
+<img  title="Laravel" alt="Laravel" width="25px" src="https://laravel.com/img/logomark.min.svg" />&nbsp;&nbsp;
+<img  title="TailwindCss" alt="TailwindCss" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" />&nbsp;&nbsp;
+<img  title="Mysql" alt="Mysql" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain.svg" />&nbsp;&nbsp;
+<img  title="Vue" alt="Vue" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" />&nbsp;&nbsp;
+<img  title="Python" alt="Python" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" />&nbsp;&nbsp;
+
+---
