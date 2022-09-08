@@ -1,3 +1,9 @@
+<div align="center">
+  <img height="400px" src="https://i.pinimg.com/originals/54/c9/af/54c9af226721e95539a5cd9592d635bb.gif" />
+</div>
+
+---
+
 ### Hi, I'm De Guio Samuel 👋
 
 I am a full-stack developer working at [Wsb Srl](https://www.wesellbrain.com/) since 3 years. I like to work on different project and developing solution for my customers in order to simplify their life. Work aside I like to spend my time devolping web application using cutting edge tecnologies. 
